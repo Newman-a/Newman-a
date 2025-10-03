@@ -62,18 +62,6 @@
 
 ### 🚀 Mis Proyectos Destacados
 
-**Ejemplo:**
-
-#### 🤖 Flujo Automatizado de Leads
-Un sistema que captura leads desde un formulario web, los procesa con n8n y los envía a un CRM (Trello, Sheets, etc.).
-
-<p>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<br>
-
----
 
 ### 📊 Mis Estadísticas de GitHub
 
