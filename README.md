@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
   </h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Frontend+Autodidacta;Estudiante+de+Ingeniería+de+Sistemas;Siempre+aprendiendo+cosas+nuevas...<3" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Sistemas;Desarrollador+Web+Frontend;Trafficker+Digital+&hearts;" />
   </a>
 </div>
 
@@ -14,10 +14,10 @@
 
 <br>
 
-- 🎓 Estudiante de **Ingeniería de Sistemas** apasionado por la tecnología.
-- 🚀 Desarrollador Frontend autodidacta con un fuerte enfoque en crear interfaces de usuario interactivas y eficientes.
-- 🌱 Siempre estoy explorando nuevas tecnologías y frameworks para mejorar mis habilidades.
-- 📫 Actualmente abierto a oportunidades de trabajo. ¡Conectemos! [**Revisa mi CV aquí**](TU_LINK_AL_CV).
+- 🎓 **Ingeniero de Sistemas** especializado en **Desarrollo Web Frontend**.
+- 🚀 Experto en la creación de interfaces de usuario interactivas y eficientes utilizando tecnologías como **React, TypeScript, Tailwind CSS y Bootstrap**.
+- 📈 **Trafficker Digital** con experiencia en la gestión y optimización de campañas de publicidad online para maximizar el retorno de inversión.
+- 📫 Abierto a nuevas oportunidades laborales donde pueda aportar valor y seguir creciendo. [**Revisa mi CV aquí**](TU_LINK_AL_CV).
 
 <br>
 
@@ -31,15 +31,14 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
 <p align="center">
   <strong>Frontend</strong><br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
 </p>
 
@@ -60,8 +59,8 @@
 
 **Ejemplo:**
 
-#### 🎬 Catálogo de Películas
-Una aplicación web personal para explorar películas, con una sección especial sobre mitología griega. Desarrollada con React y The Movie Database API.
+#### 📊 Dashboard Interactivo
+Dashboard para visualización de datos de negocio, construido con React, TypeScript y Tailwind CSS.
 
 <p>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
