@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
   </h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Sistemas;Desarrollador+Web+Frontend;Trafficker+Digital+&hearts;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Automatización+y+Marketing+Digital" />
   </a>
 </div>
 
@@ -14,9 +14,10 @@
 
 <br>
 
-- 🎓 **Ingeniero de Sistemas** especializado en **Desarrollo Web Frontend**.
-- 🚀 Experto en la creación de interfaces de usuario interactivas y eficientes utilizando tecnologías como **React, TypeScript, Tailwind CSS y Bootstrap**.
-- 📈 **Trafficker Digital** con experiencia en la gestión y optimización de campañas de publicidad online para maximizar el retorno de inversión.
+- 🎓 **Ingeniero de Sistemas** enfocado en el **Desarrollo Web**, con sólida experiencia en **Frontend** y conocimientos en **Backend**.
+- 🚀 Experto en la creación de interfaces de usuario interactivas y eficientes utilizando **React, TypeScript, Tailwind CSS y Bootstrap**.
+- 💡 Apasionado por la **automatización de flujos de trabajo con n8n** para optimizar procesos y mejorar la eficiencia.
+- 📈 **Trafficker Digital** con experiencia en la gestión y optimización de campañas de publicidad online.
 - 📫 Abierto a nuevas oportunidades laborales donde pueda aportar valor y seguir creciendo. [**Revisa mi CV aquí**](TU_LINK_AL_CV).
 
 <br>
@@ -39,12 +40,16 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
 </p>
 
 <p align="center">
-  <strong>Herramientas y Otros</strong><br>
+  <strong>Backend</strong><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+</p>
+
+<p align="center">
+  <strong>Herramientas y Automatización</strong><br>
   <img src="https://img.shields.io/badge/N8N-1A8262?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -59,12 +64,11 @@
 
 **Ejemplo:**
 
-#### 📊 Dashboard Interactivo
-Dashboard para visualización de datos de negocio, construido con React, TypeScript y Tailwind CSS.
+#### 🤖 Flujo Automatizado de Leads
+Un sistema que captura leads desde un formulario web, los procesa con n8n y los envía a un CRM (Trello, Sheets, etc.).
 
 <p>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <br>
